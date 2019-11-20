@@ -7,7 +7,10 @@
 #需要安装 chromedriver 和 selenium
 
 使用brew安装如下
+
 ```brew cask install chromedriver ```
+
 遇先安装python3
+
 ```pip3 install selenium ```
 
