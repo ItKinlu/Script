@@ -6,5 +6,6 @@
 #运行环境: 需要在python3的环境下运行
 #需要安装 chromedriver 和 selenium
 ```brew cask install chromedriver ```
+
 ```pip3 install selenium ```
 
